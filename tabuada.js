@@ -1,7 +1,7 @@
-// Número para o qual queremos gerar a tabuada
-let numero = 5;
+// Entrada do número
+let numero = 2; //o numero que deseja saber a tabuada
 
-// Loop para iterar de 1 até 10
+// Estabelece a tabuada de 1 a 10
 for (let i = 1; i <= 10; i++) {
-  console.log(`${numero} x ${i} = ${numero * i}`);
+  console.log(`${numero} x ${i} = ${numero * i}`); //estabelece o formato 1x1 = 1 apartir da variavel e o i 
 }
