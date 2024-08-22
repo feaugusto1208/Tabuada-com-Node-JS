@@ -1,2 +1,2 @@
 # Tabuada-com-Node-JS
-Pratica e teste de uma tabuada feita utilizando node.js 
+Pratica e teste no Vscode de uma tabuada feita utilizando de JavaScript e Node 
